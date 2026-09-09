@@ -10,7 +10,7 @@
 
 :root { /*tudo o que for definido aqui, vai servir para o Documento inteiro. 
         Todas as variáveis em CSS tem que começar com dois traços "--"*/
-    --cor0: #c5ebd6;
+    --cor0: #d6ebff;
     --cor1: #83e1ad;
     --cor2: #3ddc84;
     --cor3: #2fa866;
@@ -28,7 +28,7 @@
 }
 
 body {
-    background-color: #c5ebd6;
+    background-color: #d6ebff;
     font-family: var(--fonte-padrao);
 }
 
